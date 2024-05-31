@@ -1,3 +1,3 @@
 # recipes
 
-An app made as an excercise of the Flutter Apprentice book
+An app made as an exercise of the Flutter Apprentice book (section one).
